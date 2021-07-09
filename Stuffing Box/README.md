@@ -10,3 +10,6 @@ bush 3 is placed such that the bevelled edge of the bush is at the inner side of
 placed at the other end of the body and is connected to the main body by means of studs 4 and nuts
 5. The space between the reciprocating rod and the bush and the gland is packed with a packing
 material such as mineral fibres, leather, rubber or cork.
+
+
+![stuffing box assembly](https://github.com/lyleokoth/cad_drawings/blob/main/Stuffing%20Box/pictures/two.PNG)
