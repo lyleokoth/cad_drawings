@@ -1,6 +1,6 @@
 # Stuffing Box
 
-![stuffing box assembly](https://github.com/lyleokoth/oryksRover/blob/main/src/rover_description/CAD/Pictures/Mars%20Rover.JPG)
+![stuffing box assembly](https://github.com/lyleokoth/cad_drawings/blob/main/Stuffing%20Box/pictures/One.PNG)
 
 It is used to prevent loss of fluid such as steam, between sliding or turning parts of machine
 elements. In a steam engine, when the piston rod reciprocates through the cylinder cover; stuffing
